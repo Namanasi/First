@@ -1,3 +1,4 @@
 # First
-first use of github\n
+first use of github
+
 hello~
